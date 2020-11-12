@@ -20,7 +20,7 @@ public class AppTest
     }
 
     @Test
-    public void test(){
-
+    public void testtoString(){
+        assertTrue(true);
     }
 }
